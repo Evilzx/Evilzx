@@ -16,11 +16,11 @@ Oiie! Me chamo Guilherme e estou começando minha jornada na programação. Atua
 
 ### 🔤 Linguagens
 
-![Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)ㅤ![Badge](https://img.shields.io/badge/Lua-%23000080?style=for-the-badge&logo=lua&logoColor=white&labelColor=black)ㅤ![Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)ㅤ![Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)
+![Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)ㅤ![Badge](https://img.shields.io/badge/Lua-%23000080?style=for-the-badge&logo=lua&logoColor=white&labelColor=black)ㅤ
 
 ### 🧩 Programas que uso
 
-![Badge](https://img.shields.io/badge/VSCODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=black)ㅤ![Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)ㅤ![Badge](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=black)
+![Badge](https://img.shields.io/badge/VSCODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=black)ㅤ
 
 ---
 
