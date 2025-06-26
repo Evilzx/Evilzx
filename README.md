@@ -9,7 +9,8 @@ Oiie! Me chamo Guilherme e estou começando minha jornada na programação. Atua
 <br/>
 <br/>
 
-![Static Badge](https://img.shields.io/badge/guilherme__-%235865F2?style=for-the-badge&logo=discord&logoColor=white)ㅤ![Static Badge](https://img.shields.io/badge/github-%2312100E?style=for-the-badge&logo=github&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1128713156894658650)
+[![Static Badge](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Evilzx)
 
 ---
 
