@@ -1,6 +1,6 @@
 # 🐍 Evilzx
 
-**`Iniciante em Python & Lua | Explorador de Bots e FiveM`**
+**`Iniciante em Python & Lua`**
 
 <img align="right" alt="coding cat" height="80" width="80" src="https://media.tenor.com/wfEN4Vd_GYsAAAAC/coding.gif">
 
