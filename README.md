@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding cat" height="80" width="80" src="https://media.tenor.com/wfEN4Vd_GYsAAAAC/coding.gif">
 
-Oiie! Me chamo Guilherme e estou começando minha jornada na programação. Atualmente estudo **Python** e **Lua**, com foco em desenvolver bots e scripts para servidores como o **FiveM**. Estou sempre aprendendo algo novo e adorando colocar em prática no dia a dia com projetos próprios.
+Oiie! Me chamo Guilherme e estou começando minha jornada na programação. Atualmente estudo **Python** e **Lua**. Estou sempre aprendendo algo novo e adorando colocar em prática no dia a dia com projetos próprios.
 
 <br/>
 <br/>
