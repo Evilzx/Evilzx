@@ -23,5 +23,3 @@ Oiie! Me chamo Guilherme e estou começando minha jornada na programação. Atua
 ![Badge](https://img.shields.io/badge/VSCODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=black)ㅤ
 
 ---
-
-ㅤㅤㅤㅤㅤㅤ<img align="center" alt="fivem" height="320" width="640" src="https://media.tenor.com/I7fsgD1diGgAAAAC/gta-fivem.gif">
